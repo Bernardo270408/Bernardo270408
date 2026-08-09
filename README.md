@@ -11,7 +11,6 @@ Meu foco está principalmente no **desenvolvimento de jogos**, programação e e
 <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
 </div>
 
----
 
 ## Minha Stack 
 
@@ -24,7 +23,6 @@ De qualquer forma, essas são as ferramentas em que tenho maior domínio.
 
 </div>
 
----
 
 ##  Redes Sociais
 <div align="center">
