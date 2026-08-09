@@ -1,10 +1,7 @@
 # Hi, I'm 222 👋
 AKA Bernardo
 
-> **Desenvolvedor independente • Game Developer • Estudante de Informática**
-
 Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**.  
-
 Meu foco está principalmente no **desenvolvimento de jogos**, programação e experimentação com diferentes tecnologias.
 
 
@@ -19,7 +16,6 @@ Meu foco está principalmente no **desenvolvimento de jogos**, programação e e
 ## Minha Stack 
 
 Honestamente não tenho uma stack muito fixa, porque estou sempre aprendendo o que pode me ajudar com meus jogos (e com a escola :v)
-
 De qualquer forma, essas são as ferramentas em que tenho maior domínio.
 
 <div align="center">
