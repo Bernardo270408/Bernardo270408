@@ -1,12 +1,7 @@
 # Hi, I'm 222 👋
 AKA Bernardo
 
-Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**.  
-Meu foco está principalmente no **desenvolvimento de jogos**, programação e experimentação com diferentes tecnologias.
-
-
-
-
+Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**. Interessado principalmente por **Desenvolvimento de jogos**, **Machine Learning**, **Data Analyzing**, **IA aplicada** e **Sitemas Operacionais Linux**
 <div float="left" align="center">
 <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
 </div>
