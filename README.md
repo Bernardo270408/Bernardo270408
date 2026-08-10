@@ -1,7 +1,7 @@
 # Hi, I'm 222 👋
 AKA Bernardo
 
-Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**. Interessado principalmente por **Desenvolvimento de jogos**, **Machine Learning**, **Data Analyzing**, **IA aplicada** e **Sitemas Operacionais Linux**
+Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**. Interessado principalmente por **Desenvolvimento de jogos**, **Machine Learning**, **Data analysis**, **IA aplicada** e **Sitemas Operacionais Linux**
 <div float="left" align="center">
 <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
 </div>
@@ -9,7 +9,7 @@ Sou um desenvolvedor independente e estudante de Informática no **Instituto Fed
 
 ## Minha Stack 
 
-Honestamente não tenho uma stack muito fixa, porque estou sempre aprendendo o que pode me ajudar com meus jogos (e com a escola :v)
+Não tenho uma stack muito fixa, porque estou sempre aprendendo o que pode me ajudar com meus projetos (e com a escola :v).
 De qualquer forma, essas são as ferramentas em que tenho maior domínio.
 
 <div align="center">
