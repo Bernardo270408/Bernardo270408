@@ -2,8 +2,9 @@
 AKA Bernardo
 
 Sou um desenvolvedor independente e estudante de Informática no **Instituto Federal de São Paulo**. Interessado principalmente por **Desenvolvimento de jogos**, **Machine Learning**, **Data analysis**, **IA aplicada** e **Sitemas Operacionais Linux**
+
 <div float="left" align="center">
-<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="40%"/>
 </div>
 
 
